@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MovingTrumpetActivity!</string>
+    <string name="app_name">MovingTrumpet</string>
+    <string name="btn_back">Back</string>
+    <string name="txt_banner">Banner</string>
+    <string name="dlg_sdcard">SDCard is not available</string>
+    <string name="dlg_network">Your network connection seems to be offline</string>
+
+</resources>

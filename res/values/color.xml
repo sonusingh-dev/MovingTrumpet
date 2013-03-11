@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_bg">#e7f6fb</color>
+    <color name="body_bg">#b1e1ed</color>
+    <color name="dialog_bg">#55bfd4</color>
+    <color name="divider">#48bcd5</color>
+    <color name="game">#9BD0C2</color>
+    <color name="game_dk">#72C1B0</color>
+    <color name="game_lt">#C9E6DE</color>
+    <color name="event">#EA867D</color>
+    <color name="event_dk">#E95C41</color>
+    <color name="event_lt">#F2BDB9</color>
+    <color name="training">#6DC6DD</color>
+    <color name="training_dk">#45BCD2</color>
+    <color name="training_lt">#B1E1ED</color>
+    <color name="task">#AC78AC</color>
+    <color name="task_dk">#914592</color>
+    <color name="task_lt">#D2B7D3</color>
+    <color name="ltblack">#464646</color>
+    <color name="sub_title">#666666</color>
+    <color name="black">#000000</color>
+    <color name="blue">#25587E</color>
+    <color name="cyan">#00ffff</color>
+    <color name="dkgray">#444444</color>
+    <color name="gray">#888888</color>
+    <color name="green">#00ff00</color>
+    <color name="ltgray">#cccccc</color>
+    <color name="magenta">#ff00ff</color>
+    <color name="red">#ff0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#ffff00</color>
+
+</resources>
